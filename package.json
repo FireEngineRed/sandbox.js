@@ -1,0 +1,21 @@
+{
+  "name": "sandbox.js",
+  "title": "sandbox.js",
+  "description": "",
+  "homepage": "http://bartaz.github.io/sandbox.js/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FireEngineRed/sandbox.js.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Bartek Szopka",
+    "url": "http://bartaz.github.com"
+  },
+  "version": "0.0.0",
+  "main": "jquery.highlight.js",
+  "files": [
+    "*.js",
+    "README.*"
+  ]
+}
