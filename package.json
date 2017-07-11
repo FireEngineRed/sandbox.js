@@ -16,6 +16,6 @@
   "main": "jquery.highlight.js",
   "files": [
     "*.js",
-    "README.*"
+    "README"
   ]
 }
